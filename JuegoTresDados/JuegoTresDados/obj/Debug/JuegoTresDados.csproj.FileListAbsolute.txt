@@ -1,0 +1,7 @@
+D:\repos\JuegoTresDados\JuegoTresDados\obj\Debug\JuegoTresDados.csproj.AssemblyReference.cache
+D:\repos\JuegoTresDados\JuegoTresDados\obj\Debug\JuegoTresDados.csproj.CoreCompileInputs.cache
+D:\repos\JuegoTresDados\JuegoTresDados\bin\Debug\JuegoTresDados.exe.config
+D:\repos\JuegoTresDados\JuegoTresDados\bin\Debug\JuegoTresDados.exe
+D:\repos\JuegoTresDados\JuegoTresDados\bin\Debug\JuegoTresDados.pdb
+D:\repos\JuegoTresDados\JuegoTresDados\obj\Debug\JuegoTresDados.exe
+D:\repos\JuegoTresDados\JuegoTresDados\obj\Debug\JuegoTresDados.pdb
